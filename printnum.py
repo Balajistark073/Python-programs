@@ -7,7 +7,7 @@ def withoutdigit(n):
     return count
 number=int(input())
 result=withoutdigit(number)
-print(result)
+print(result) 
  
 
 
